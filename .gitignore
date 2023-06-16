@@ -1,0 +1,6 @@
+.venv
+.vscode
+__psycache__
+instance
+*.pyc 
+.DS_Store
